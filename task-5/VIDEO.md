@@ -1,5 +1,24 @@
 __Finally succeeded even though not having a coding background , was a hard jouney lmao__
 
 https://user-images.githubusercontent.com/115528443/205646092-a1aa34bf-60d8-4532-a38f-db05688d8955.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/115528443/206498779-2aa81a5d-cbc7-48f6-8192-d8c275238244.png)
 
