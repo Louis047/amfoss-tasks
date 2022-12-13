@@ -3,7 +3,7 @@ __ABOUT ME__
 
 Sup People 👋, I'm Louis from Coimbatore District in Tamil Nadu.
 
-__INTROSEPTION__
+__INTROSEPECTION__
 -----------------
 
 ### _Why must we choose you?_
