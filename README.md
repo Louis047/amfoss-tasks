@@ -11,4 +11,5 @@ __About Me__
 [Task-2](https://github.com/Louis047/amfoss-tasks/tree/main/task-2)|Terminal Hunt|Completed
 [Task-4](https://github.com/Louis047/amfoss-tasks/tree/main/task-4)|Cinebot|Partially Done
 [Task-5](https://github.com/Louis047/amfoss-tasks/tree/main/task-5)|Find The Bug|Completed
+[Task-8](https://github.com/Louis047/amfoss-tasks/tree/main/task-8)|Internet Explorer|Completed
 [Task-14 (Optional)](https://github.com/Louis047/amfoss-tasks/tree/main/task-14)|Bandit Linux|3/4 Completed
