@@ -15,3 +15,5 @@ I was able to prcoeed this cuz had some experience with css before , edited for 
 
 ![image](https://user-images.githubusercontent.com/115528443/207520704-6aad05b8-5685-4ec6-bddf-aa76becac650.png)
 
+   
+__ATTACHED THE SCRIPTS IN `script` file__
