@@ -4,7 +4,7 @@ I was able to prcoeed this cuz had some experience with css before , edited for 
 ### Steps that I've Done:
    1.Linking the JS and CSS scripts to `index.html` with <link> and <script> tags
 
-   2.Coded in `index.js` to call the play function for importing the sound files into each keys displayed in the drum kit and linked them with onclick event in`index.html`
+   2.Coded in `index.js` to call the play function for importing the sound files into each keys displayed in the drum kit and linked them with onclick event in `index.html`
 .
   
    3.Replaced the background with an image and altered the colours of the elements with gradient blue from `styles.css`
