@@ -1,4 +1,4 @@
-To be honest , This is one of the **basic** and a **hard task** that taught me about different command lines of _linux_ and _git_ 
+To be honest , This is one of the **basic** and a **time consuming** that taught me about different command lines of _linux_ and _git_ 
 
 Various Command Lines I've used during the task progress (although forgot some of em 🗿)
 -
