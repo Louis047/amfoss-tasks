@@ -2,7 +2,7 @@
 
 __About Me__
 ---------
-  Hi :wave:, I'm Louis Lara currently pursuing my career in Amrita School of Computing _CSE_ 2022-2026. I'm from Coimbatore, Tamil Nadu.  
+  Hi :wave:, I'm Louis Lara currently pursuing my career in Amrita School of Computing _CSE_ 2022-2026. I'm from Coimbatore, Tamil Nadu, trying to do something productive in my life. I came to know about amFOSS before i joined this college through one of my friends from school days and he told pretty interesting.Being from a biology background, coding was a big barrier for me.But , i love learning a lot about different operating systems and also building PCs. I have interest in coding and hope i chose the right place to join in for increasing my coding skills. 
   
   
 __Task-Table__
