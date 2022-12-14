@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Anton");
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+body {
+  text-align: center;
+  background-image: url("https://initiate.alphacoders.com/images/736/cropped-1920-1080-736461.png?5937");
+}
+
+h1 {
+  font-family: "Anton",sans-serif;
+  font-size: 5rem;
+  font-weight: 1000;
+  color: #24d02d;
+  text-shadow: 6px 0 #136018;
+
+}
+
+.w {
+  font-family: "Lobster",sans-serif;
+}
+
+.a {
+  font-family: "Lobster",sans-serif;
+}
+
+.s {
+  font-family: "Lobster",sans-serif;
+}
+
+.d {
+  font-family: "Lobster",sans-serif;
+}
+
+.j {
+  font-family: "Lobster",sans-serif;
+}
+
+.k {
+  font-family: "Lobster",sans-serif;
+}
+
+.l {
+  font-family: "Lobster",sans-serif;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #1b6ad8;
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 1000;
+  color: #da0404;
+  text-shadow: 4px 0 #000000;
+  box-shadow: 10px 10px #307dbb;
+  border-radius: 15px;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  text-align: match-parent;
+  margin: 10px;
+  background: linear-gradient(to left, #33adff 0%, #187bd1 100%);
+}
